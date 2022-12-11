@@ -9,7 +9,32 @@
 <h2>A little about me</h2>
 <p> &ensp;&ensp;Hi! I've been in this space since my highschool days of 2015. It's been a wonder to see how technology has evolved and to be growing alongside it. I'm excited to continue to share my creativity and my strive for the most quality experiences, thank you for reading!
 </p>
-<br></br>
+
+```java
+public class AboutMe {
+  String user = "Akross";
+  String attentingSchool = "Northern Virginia Community College";
+  
+  boolean inSchool = true;
+  boolean isWorking = false;
+  
+  public String[] getProgrammingLanguages() {
+    String[] languages = { "Java", "JavaScript", "C", "HTML", "CSS", "C#" };
+    return languages;     // Proficient --> lesser proficiency
+  }
+  
+  public String[] getSoftware() {
+    String[] software = { "VScode", "IntelliJ IDEA", "pgAdmin" ;
+    return software;     // Proficient --> lesser proficiency
+  }
+  
+  public String[] getTools() {
+    String[] tools = { "Spring", "Hibernate", "Git" };
+    return tools;     // Proficient --> lesser proficiency
+  }
+}
+```
+
 <h2>GitHub Stats</h2>
 <a href="https://github.com/akr0ss/akr0ss">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akr0ss&hide=stars&show_icons=true&theme=discord_old_blurple"/>
