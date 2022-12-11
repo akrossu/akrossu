@@ -13,6 +13,7 @@
 ```java
 public class AboutMe {
   String user = "Akross";
+  String discord "Akross#0001";
   String attentingSchool = "Northern Virginia Community College";
   
   boolean inSchool = true;
