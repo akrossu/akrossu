@@ -30,7 +30,7 @@ public class AboutMe {
   }
   
   public String[] getTools() {
-    String[] tools = { "Spring", "Hibernate", "Git" };
+    String[] tools = { "Git", "Spring", "Hibernate" };
     return tools;     // Proficient --> lesser proficiency
   }
 }
