@@ -25,7 +25,7 @@ public class AboutMe {
   }
   
   public String[] getSoftware() {
-    String[] software = { "VScode", "IntelliJ IDEA", "pgAdmin" ;
+    String[] software = { "VScode", "IntelliJ IDEA", "pgAdmin" };
     return software;     // Proficient --> lesser proficiency
   }
   
