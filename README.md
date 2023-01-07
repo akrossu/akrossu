@@ -1,9 +1,9 @@
 <h2>Repo Showcase</h2>
 <a href="https://github.com/akr0ss/kumiko-discord-bot">
-  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api/pin/?username=akr0ss&repo=kumiko-discord-bot&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=000000"/>
+  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api/pin/?username=akr0ss&repo=kumiko-discord-bot&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=1B1D23"/>
 </a>
 <a href="https://github.com/akr0ss/fabric_dawn-hud">
-  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api/pin/?username=akr0ss&repo=fabric_dawn-hud&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=000000"/>
+  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api/pin/?username=akr0ss&repo=fabric_dawn-hud&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=1B1D23"/>
 </a>
 <br></br>
 <h2>A little about me</h2>
@@ -43,6 +43,6 @@ public class AboutMe {
 
 <h2>GitHub Stats</h2>
 <a href="https://github.com/akr0ss/akr0ss">
-<img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api?username=akr0ss&hide=stars&show_icons=true&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=000000"/>
-<img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api/top-langs/?username=akr0ss&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=000000"/>
+  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api?username=akr0ss&hide=stars&show_icons=true&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=1B1D23"/>
+  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api/top-langs/?username=akr0ss&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=1B1D23"/>
 </a>
