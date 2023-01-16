@@ -39,7 +39,7 @@ public class AboutMe {
 
 ## GitHub Stats
 <a href="https://github.com/akr0ss">
-  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api?username=akr0ss&hide=stars&show_icons=true&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=1B1D23"/>
+  <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api?username=akr0ss&count_private=true&hide=stars&show_icons=true&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=1B1D23&card_width=400"/>
 </a>
 <a href="https://github.com/akr0ss">
   <img align="center" src="https://github-readme-stats-akr0ss.vercel.app/api/top-langs/?username=akr0ss&layout=compact&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&border_color=1B1D23"/>
