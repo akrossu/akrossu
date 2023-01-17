@@ -16,11 +16,11 @@ public class AboutMe {
   boolean isWorking = false;
   
   public void programmingLanguages() {
-    String[] languages = { "Java", "JavaScript", "C", "HTML", "CSS", "C#" };
+    String[] languages = { "Java", "JavaScript", "C", "HTML", "CSS" };
   }
   
   public void frameworks() {
-    String[] frameworks = { "Spring", "React", "Tailwind CSS", "Bootstrap" };
+    String[] frameworks = { "Spring", "Node.js", "Bootstrap", "SCSS", "React" };
   }
   
   public void databases() {
