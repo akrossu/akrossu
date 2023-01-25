@@ -40,8 +40,6 @@ public class AboutMe {
 
 ## Status
 
-![Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=6b4340)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/282593436803268618)](https://discord.com/users/282593436803268618)
 [![GitHub Streak](https://streak-stats.demolab.com?user=akr0ss&theme=dark&background=1B1D23&ring=D68881&fire=D68881&currStreakLabel=D68881&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
