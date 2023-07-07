@@ -21,6 +21,8 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-hsla%28000%2C%20000%25%2C%2000%25%2C%200%29?style=flat-square&logo=spring)
 ![Nodejs](https://img.shields.io/badge/-Node.js-hsla%28000%2C%20000%25%2C%2000%25%2C%200%29?style=flat-square&logo=node.js)
+![SvelteKit](https://img.shields.io/badge/-svelte-hsla%28000%2C%20000%25%2C%2000%25%2C%200%29?style=flat-square&logo=svelte)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-hsla%28000%2C%20000%25%2C%2000%25%2C%200%29?style=flat-square&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-hsla%28000%2C%20000%25%2C%2000%25%2C%200%29?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-hsla%28000%2C%20000%25%2C%2000%25%2C%200%29?style=flat-square&logo=Sass)
 ![electron](https://img.shields.io/badge/-Electron-hsla%28000%2C%20000%25%2C%2000%25%2C%200%29?style=flat-square&logo=electron)
