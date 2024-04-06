@@ -66,12 +66,11 @@
 
 </details>
 
-## Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/282593436803268618)](https://discord.com/users/282593436803268618)
-[![GitHub Streak](https://streak-stats.demolab.com?user=akrossu&theme=dark&background=1B1D23&ring=D68881&fire=D68881&currStreakLabel=D68881&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 ## GitHub Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=akrossu&count_private=true&hide=stars&show_icons=true&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true&card_width=400)](https://github.com/akrossu)
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=akrossu&layout=compact&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akrossu)
+
+## Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/282593436803268618)](https://discord.com/users/282593436803268618)
