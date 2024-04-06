@@ -1,9 +1,9 @@
 ## Repo Showcase
 
-[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=kumiko-discord-bot&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akr0ss/kumiko-discord-bot)
-[![Fabric](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=fabric_dawn-hud&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akr0ss/fabric_dawn-hud)
-[![Taki](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=akrossu.github.io&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/AKR0SS/akr0ss.github.io)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=taki-mal-api-wrapper&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/AKR0SS/Taki-MAL-API-Wrapper)
+[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=kumiko-discord-bot&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akrossu/kumiko-discord-bot)
+[![Fabric](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=fabric_dawn-hud&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akrossu/fabric_dawn-hud)
+[![Taki](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=akrossu.github.io&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akrossu/akrossu.github.io)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=taki-mal-api-wrapper&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akrossu/Taki-MAL-API-Wrapper)
 
 
 ## A little about me
@@ -69,9 +69,9 @@
 ## Status
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/282593436803268618)](https://discord.com/users/282593436803268618)
-[![GitHub Streak](https://streak-stats.demolab.com?user=akr0ss&theme=dark&background=1B1D23&ring=D68881&fire=D68881&currStreakLabel=D68881&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akrossu&theme=dark&background=1B1D23&ring=D68881&fire=D68881&currStreakLabel=D68881&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ## GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=akr0ss&count_private=true&hide=stars&show_icons=true&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true&card_width=400)](https://github.com/akr0ss)
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=akr0ss&layout=compact&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akr0ss)
+[![Stats](https://github-readme-stats.vercel.app/api?username=akrossu&count_private=true&hide=stars&show_icons=true&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true&card_width=400)](https://github.com/akrossu)
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=akrossu&layout=compact&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akrossu)
