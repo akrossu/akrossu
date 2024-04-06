@@ -1,9 +1,9 @@
 ## Repo Showcase
 
-[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=akr0ss&repo=kumiko-discord-bot&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akr0ss/kumiko-discord-bot)
-[![Fabric](https://github-readme-stats.vercel.app/api/pin/?username=akr0ss&repo=fabric_dawn-hud&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akr0ss/fabric_dawn-hud)
-[![Taki](https://github-readme-stats.vercel.app/api/pin/?username=akr0ss&repo=akr0ss.github.io&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/AKR0SS/akr0ss.github.io)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=akr0ss&repo=taki-mal-api-wrapper&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/AKR0SS/Taki-MAL-API-Wrapper)
+[![Kumiko](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=kumiko-discord-bot&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akr0ss/kumiko-discord-bot)
+[![Fabric](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=fabric_dawn-hud&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/akr0ss/fabric_dawn-hud)
+[![Taki](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=akrossu.github.io&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/AKR0SS/akr0ss.github.io)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=akrossu&repo=taki-mal-api-wrapper&bg_color=1B1D23&title_color=FFFFFF&text_color=AAAAAA&icon_color=D68881&hide_border=true)](https://github.com/AKR0SS/Taki-MAL-API-Wrapper)
 
 
 ## A little about me
