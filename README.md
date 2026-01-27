@@ -42,7 +42,7 @@ Tools and Platforms:
 
 ```
                                                                     _..--''``---...___   _..._    __
-   Dont' forget to Star or Follow!                        /// //_.-'    .-/";  `       ``<._  ``.''_ `. / // /
+   Everything starts with an issue                        /// //_.-'    .-/";  `       ``<._  ``.''_ `. / // /
                                                          ///_.-' _..--.'_    \                   `( ) ) // //
        Feel free to contribute to any project            / (_..-' // (< _     ;_..__              ; `' / ///
                                                           / // // //  `-._,_)' // / ``--..___..-' /// / //
