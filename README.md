@@ -29,7 +29,7 @@ Frameworks and Libraries:
 <img src="https://img.shields.io/badge/TailwindCSS-3F3E3E?style=flat&logo=tailwindcss">
 
 Tools and Platforms: 
-<img src="https://img.shields.io/badge/Git-3F3E3E?style=flat-square&logo=Git">
+<img src="https://img.shields.io/badge/Git-3F3E3E?style=flat&logo=Git">
 <img src="https://img.shields.io/badge/Docker-3F3E3E?style=flat&logo=Gradle&logoColor=4d6e75">
 <img src="https://img.shields.io/badge/Postgres-3F3E3E?style=flat&logo=PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-3F3E3E?style=flat&logo=MongoDB">
@@ -41,9 +41,9 @@ Tools and Platforms:
 ##
 
 ```
-                                                                    _..--''``---...___   _..._    __
-   Everything starts with an issue                        /// //_.-'    .-/";  `       ``<._  ``.''_ `. / // /
-                                                         ///_.-' _..--.'_    \                   `( ) ) // //
-       Feel free to contribute to any project            / (_..-' // (< _     ;_..__              ; `' / ///
-                                                          / // // //  `-._,_)' // / ``--..___..-' /// / //
+                                                               _..--''``---...___   _..._    __
+   Everything starts with an issue                   /// //_.-'    .-/";  `       ``<._  ``.''_ `. / // /
+                                                    ///_.-' _..--.'_    \                   `( ) ) // //
+       Feel free to contribute to any project       / (_..-' // (< _     ;_..__              ; `' / ///
+                                                     / // // //  `-._,_)' // / ``--..___..-' /// / //
 ```
