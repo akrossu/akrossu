@@ -3,7 +3,7 @@
   <a href="https://discordapp.com/users/282593436803268618"><img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"></a>
   <a href="https://akross.dev"><img align="right" src="https://img.shields.io/badge/akross.dev-A77EFF?style=flat"></a>
 </div>
-<div align="center"><img width="100%" src="https://github.com/akrossu/akrossu/blob/main/692458.jpg?raw=true" /></div>
+<div align="center"><img width="100%" src="https://github.com/akrossu/akrossu/blob/main/692459.jpg?raw=true" /></div>
 
 <br/>
 
